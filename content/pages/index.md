@@ -228,6 +228,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: |
+      testing
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
